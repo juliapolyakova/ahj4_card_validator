@@ -1,0 +1,44 @@
+.img {
+  padding-bottom: 10px;
+}
+
+.container{
+  box-sizing: border-box;
+  margin: 50px auto;
+  width: 370px;
+}
+
+.card {
+  width: 40px;
+  opacity: 0.3;
+}
+
+.active {
+  opacity: 1;
+}
+
+.form {
+  display: flex;
+  justify-content: space-between;  
+}
+
+.cardnumber {
+  width: 240px;
+  height: 30px;
+  padding-left: 5px;
+}
+
+.button {
+  background-color: #a9dfb2;
+  width: 100px;
+  box-sizing: border-box;
+}
+
+.correct {
+  background-color: #53cc53;
+}
+
+.error {
+  background-color: red;
+}
+
