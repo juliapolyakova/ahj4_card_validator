@@ -10,6 +10,10 @@
     "lint": "eslint ."
   },
   "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliapolyakova/ahj4_card_validator"
+  },
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.10.5",
